@@ -26,7 +26,6 @@ python3 -m pip install -e .
 
 
 ## Usage
-___
 
 - __convert_cloud_from_o3d_to_ros__: this function converts the datatype of point cloud from Open3D to ROS PointCloud2
 - __convert_cloud_from_ros_to_o3d__: this function converts the datatype of point cloud from ROS PointCloud2 to Open3D
